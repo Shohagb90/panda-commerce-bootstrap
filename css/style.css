@@ -11,5 +11,30 @@
 .panda-slide .carousel-item{
     background-color: #fceae8;
     border-radius: 1em;
+}
+#subscribe{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+.shoes-design{
+    padding-inline: 0;
+}
     
+    
+/* }
+.modify-shoes{
+    
+    margin: 100px;
+    border-radius: 10px;
+}
+.fun{
+   margin: 150px;
+   
+}
+.carousel-linier img{
+    height: 20px;
+} */
+
+.container{
+    margin-bottom: 100px;
 }
